@@ -6,7 +6,7 @@ Basic Pong Game written in a single GLSL shader running in a Flutter application
 
 ## Demo
 
-See the [demo video](https://raw.githubusercontent.com/wolfenrain/shady_frog/main/assets/demo.mp4)
+See the [demo video](https://raw.githubusercontent.com/wolfenrain/shady_pong/main/assets/demo.mp4).
 
 ## How to run
 
